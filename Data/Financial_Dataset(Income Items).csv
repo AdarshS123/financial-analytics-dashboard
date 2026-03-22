@@ -1,0 +1,73 @@
+﻿Date,Month,City,Category,Category I,Budgeted Income,Actual Income,Cateogry II
+2024-01,January,Adelaide,Income,Student Services,3600,3628,Interview Prep
+2024-01,January,Sydney,Income,Student Services,4800,4972,Mentoring Program
+2024-01,January,Melbourne,Income,Student Services,3600,3745,Networking Strategy
+2024-01,January,Adelaide,Income,Social Media Ads,1500,1552,X
+2024-01,January,Sydney,Income,Social Media Ads,2000,2079,LinkedIn
+2024-01,January,Melbourne,Income,Social Media Ads,1500,1450,Facebook
+2024-02,February,Adelaide,Income,Student Services,3600,3609,Mentoring Program
+2024-02,February,Sydney,Income,Student Services,4800,5013,Mentoring Program
+2024-02,February,Melbourne,Income,Student Services,3600,3517,LinkedIn Profile
+2024-02,February,Adelaide,Income,Social Media Ads,1500,1432,LinkedIn
+2024-02,February,Sydney,Income,Social Media Ads,2000,2038,X
+2024-02,February,Melbourne,Income,Social Media Ads,1500,1436,X
+2024-03,March,Adelaide,Income,Student Services,3600,3754,LinkedIn Profile
+2024-03,March,Sydney,Income,Student Services,4800,4894,Mentoring Program
+2024-03,March,Melbourne,Income,Student Services,3600,3704,LinkedIn Profile
+2024-03,March,Adelaide,Income,Social Media Ads,1500,1458,X
+2024-03,March,Sydney,Income,Social Media Ads,2000,2051,Facebook
+2024-03,March,Melbourne,Income,Social Media Ads,1500,1434,X
+2024-04,April,Adelaide,Income,Student Services,3600,3650,Mentoring Program
+2024-04,April,Sydney,Income,Student Services,4800,4757,Mentoring Program
+2024-04,April,Melbourne,Income,Student Services,3600,3571,Resume + LinkedIn Profile
+2024-04,April,Adelaide,Income,Social Media Ads,1500,1443,X
+2024-04,April,Sydney,Income,Social Media Ads,2000,2076,Facebook
+2024-04,April,Melbourne,Income,Social Media Ads,1500,1574,X
+2024-05,May,Adelaide,Income,Student Services,3600,3497,Resume + LinkedIn Profile
+2024-05,May,Sydney,Income,Student Services,4800,4591,Mentoring Program
+2024-05,May,Melbourne,Income,Student Services,3600,3450,LinkedIn Profile
+2024-05,May,Adelaide,Income,Social Media Ads,1500,1556,LinkedIn
+2024-05,May,Sydney,Income,Social Media Ads,2000,1944,X
+2024-05,May,Melbourne,Income,Social Media Ads,1500,1449,X
+2024-06,June,Adelaide,Income,Student Services,3600,3680,Resume + LinkedIn Profile
+2024-06,June,Sydney,Income,Student Services,4800,4600,Mentoring Program
+2024-06,June,Melbourne,Income,Student Services,3600,3554,Mentoring Program
+2024-06,June,Adelaide,Income,Social Media Ads,1500,1430,Facebook
+2024-06,June,Sydney,Income,Social Media Ads,2000,1928,LinkedIn
+2024-06,June,Melbourne,Income,Social Media Ads,1500,1430,LinkedIn
+2024-07,July,Adelaide,Income,Student Services,3600,3505,Interview Prep
+2024-07,July,Sydney,Income,Student Services,4800,4702,Resume (service fee)
+2024-07,July,Melbourne,Income,Student Services,3600,3641,Networking Strategy
+2024-07,July,Adelaide,Income,Social Media Ads,1500,1512,LinkedIn
+2024-07,July,Sydney,Income,Social Media Ads,2000,1932,Facebook
+2024-07,July,Melbourne,Income,Social Media Ads,1500,1478,LinkedIn
+2024-08,August,Adelaide,Income,Student Services,3600,3769,Resume + LinkedIn Profile
+2024-08,August,Sydney,Income,Student Services,4800,4814,Interview Prep
+2024-08,August,Melbourne,Income,Student Services,3600,3679,LinkedIn Profile
+2024-08,August,Adelaide,Income,Social Media Ads,1500,1556,Facebook
+2024-08,August,Sydney,Income,Social Media Ads,2000,1922,LinkedIn
+2024-08,August,Melbourne,Income,Social Media Ads,1500,1529,LinkedIn
+2024-09,September,Adelaide,Income,Student Services,3600,3638,LinkedIn Profile
+2024-09,September,Sydney,Income,Student Services,4800,4890,Networking Strategy
+2024-09,September,Melbourne,Income,Student Services,3600,3472,Mentoring Program
+2024-09,September,Adelaide,Income,Social Media Ads,1500,1431,Facebook
+2024-09,September,Sydney,Income,Social Media Ads,2000,2083,LinkedIn
+2024-09,September,Melbourne,Income,Social Media Ads,1500,1509,Facebook
+2024-10,October,Adelaide,Income,Student Services,3600,3582,LinkedIn Profile
+2024-10,October,Sydney,Income,Student Services,4800,4911,Networking Strategy
+2024-10,October,Melbourne,Income,Student Services,3600,3594,Mentoring Program
+2024-10,October,Adelaide,Income,Social Media Ads,1500,1552,Facebook
+2024-10,October,Sydney,Income,Social Media Ads,2000,1986,LinkedIn
+2024-10,October,Melbourne,Income,Social Media Ads,1500,1448,Facebook
+2024-11,November,Adelaide,Income,Student Services,3600,3763,Resume (service fee)
+2024-11,November,Sydney,Income,Student Services,4800,4924,Interview Prep
+2024-11,November,Melbourne,Income,Student Services,3600,3534,Resume + LinkedIn Profile
+2024-11,November,Adelaide,Income,Social Media Ads,1500,1440,LinkedIn
+2024-11,November,Sydney,Income,Social Media Ads,2000,1950,X
+2024-11,November,Melbourne,Income,Social Media Ads,1500,1512,X
+2024-12,December,Adelaide,Income,Student Services,3600,3777,Interview Prep
+2024-12,December,Sydney,Income,Student Services,4800,4996,LinkedIn Profile
+2024-12,December,Melbourne,Income,Student Services,3600,3723,LinkedIn Profile
+2024-12,December,Adelaide,Income,Social Media Ads,1500,1467,LinkedIn
+2024-12,December,Sydney,Income,Social Media Ads,2000,1932,X
+2024-12,December,Melbourne,Income,Social Media Ads,1500,1545,Facebook

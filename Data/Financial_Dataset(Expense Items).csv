@@ -1,0 +1,289 @@
+﻿Date,Month,City,Category,Sub-category,Budgeted Expense,Actual Expense
+2024-01,January,Adelaide,Motor Vehicles,Fuel & Oil,120,115
+2024-01,January,Sydney,Motor Vehicles,Fuel & Oil,160,155
+2024-01,January,Melbourne,Motor Vehicles,Fuel & Oil,120,122
+2024-01,January,Adelaide,Rent,Office Rent,135,133
+2024-01,January,Sydney,Rent,Office Rent,180,189
+2024-01,January,Melbourne,Rent,Office Rent,135,132
+2024-01,January,Adelaide,Office Expenses,General,135.9,142
+2024-01,January,Sydney,Office Expenses,General,181.2,176
+2024-01,January,Melbourne,Office Expenses,General,135.9,142
+2024-01,January,Adelaide,Subscriptions & Memberships,Professional,70.5,74
+2024-01,January,Sydney,Subscriptions & Memberships,Professional,94,91
+2024-01,January,Melbourne,Subscriptions & Memberships,Professional,70.5,67
+2024-01,January,Adelaide,Motor Vehicles,Tolls,135.3,133
+2024-01,January,Sydney,Motor Vehicles,Tolls,180.4,172
+2024-01,January,Melbourne,Motor Vehicles,Tolls,135.3,130
+2024-01,January,Adelaide,Sundry Expenses,Miscellaneous,136.8,136
+2024-01,January,Sydney,Sundry Expenses,Miscellaneous,182.4,181
+2024-01,January,Melbourne,Sundry Expenses,Miscellaneous,136.8,142
+2024-01,January,Adelaide,Internet,Broadband,22.5,22
+2024-01,January,Sydney,Internet,Broadband,30,29
+2024-01,January,Melbourne,Internet,Broadband,22.5,22
+2024-01,January,Adelaide,Salary,Employee Salaries,1440,1437
+2024-01,January,Sydney,Salary,Employee Salaries,1920,1892
+2024-01,January,Melbourne,Salary,Employee Salaries,1440,1443
+2024-02,February,Adelaide,Motor Vehicles,Fuel & Oil,120,121
+2024-02,February,Sydney,Motor Vehicles,Fuel & Oil,160,153
+2024-02,February,Melbourne,Motor Vehicles,Fuel & Oil,120,118
+2024-02,February,Adelaide,Rent,Office Rent,135,130
+2024-02,February,Sydney,Rent,Office Rent,180,186
+2024-02,February,Melbourne,Rent,Office Rent,135,137
+2024-02,February,Adelaide,Office Expenses,General,135.9,143
+2024-02,February,Sydney,Office Expenses,General,181.2,184
+2024-02,February,Melbourne,Office Expenses,General,135.9,137
+2024-02,February,Adelaide,Subscriptions & Memberships,Professional,70.5,73
+2024-02,February,Sydney,Subscriptions & Memberships,Professional,94,91
+2024-02,February,Melbourne,Subscriptions & Memberships,Professional,70.5,71
+2024-02,February,Adelaide,Motor Vehicles,Tolls,135.3,135
+2024-02,February,Sydney,Motor Vehicles,Tolls,180.4,181
+2024-02,February,Melbourne,Motor Vehicles,Tolls,135.3,138
+2024-02,February,Adelaide,Sundry Expenses,Miscellaneous,136.8,139
+2024-02,February,Sydney,Sundry Expenses,Miscellaneous,182.4,181
+2024-02,February,Melbourne,Sundry Expenses,Miscellaneous,136.8,139
+2024-02,February,Adelaide,Internet,Broadband,22.5,22
+2024-02,February,Sydney,Internet,Broadband,30,29
+2024-02,February,Melbourne,Internet,Broadband,22.5,24
+2024-02,February,Adelaide,Salary,Employee Salaries,1440,1477
+2024-02,February,Sydney,Salary,Employee Salaries,1920,1986
+2024-02,February,Melbourne,Salary,Employee Salaries,1440,1501
+2024-03,March,Adelaide,Motor Vehicles,Fuel & Oil,120,125
+2024-03,March,Sydney,Motor Vehicles,Fuel & Oil,160,167
+2024-03,March,Melbourne,Motor Vehicles,Fuel & Oil,120,120
+2024-03,March,Adelaide,Rent,Office Rent,135,132
+2024-03,March,Sydney,Rent,Office Rent,180,175
+2024-03,March,Melbourne,Rent,Office Rent,135,130
+2024-03,March,Adelaide,Office Expenses,General,135.9,141
+2024-03,March,Sydney,Office Expenses,General,181.2,185
+2024-03,March,Melbourne,Office Expenses,General,135.9,134
+2024-03,March,Adelaide,Subscriptions & Memberships,Professional,70.5,73
+2024-03,March,Sydney,Subscriptions & Memberships,Professional,94,95
+2024-03,March,Melbourne,Subscriptions & Memberships,Professional,70.5,70
+2024-03,March,Adelaide,Motor Vehicles,Tolls,135.3,138
+2024-03,March,Sydney,Motor Vehicles,Tolls,180.4,176
+2024-03,March,Melbourne,Motor Vehicles,Tolls,135.3,138
+2024-03,March,Adelaide,Sundry Expenses,Miscellaneous,136.8,130
+2024-03,March,Sydney,Sundry Expenses,Miscellaneous,182.4,185
+2024-03,March,Melbourne,Sundry Expenses,Miscellaneous,136.8,142
+2024-03,March,Adelaide,Internet,Broadband,22.5,22
+2024-03,March,Sydney,Internet,Broadband,30,31
+2024-03,March,Melbourne,Internet,Broadband,22.5,22
+2024-03,March,Adelaide,Salary,Employee Salaries,1440,1487
+2024-03,March,Sydney,Salary,Employee Salaries,1920,1829
+2024-03,March,Melbourne,Salary,Employee Salaries,1440,1385
+2024-04,April,Adelaide,Motor Vehicles,Fuel & Oil,120,121
+2024-04,April,Sydney,Motor Vehicles,Fuel & Oil,160,163
+2024-04,April,Melbourne,Motor Vehicles,Fuel & Oil,120,120
+2024-04,April,Adelaide,Rent,Office Rent,135,137
+2024-04,April,Sydney,Rent,Office Rent,180,178
+2024-04,April,Melbourne,Rent,Office Rent,135,138
+2024-04,April,Adelaide,Office Expenses,General,135.9,140
+2024-04,April,Sydney,Office Expenses,General,181.2,181
+2024-04,April,Melbourne,Office Expenses,General,135.9,139
+2024-04,April,Adelaide,Subscriptions & Memberships,Professional,70.5,67
+2024-04,April,Sydney,Subscriptions & Memberships,Professional,94,90
+2024-04,April,Melbourne,Subscriptions & Memberships,Professional,70.5,67
+2024-04,April,Adelaide,Motor Vehicles,Tolls,135.3,138
+2024-04,April,Sydney,Motor Vehicles,Tolls,180.4,188
+2024-04,April,Melbourne,Motor Vehicles,Tolls,135.3,133
+2024-04,April,Adelaide,Sundry Expenses,Miscellaneous,136.8,143
+2024-04,April,Sydney,Sundry Expenses,Miscellaneous,182.4,184
+2024-04,April,Melbourne,Sundry Expenses,Miscellaneous,136.8,141
+2024-04,April,Adelaide,Internet,Broadband,22.5,22
+2024-04,April,Sydney,Internet,Broadband,30,30
+2024-04,April,Melbourne,Internet,Broadband,22.5,23
+2024-04,April,Adelaide,Salary,Employee Salaries,1440,1510
+2024-04,April,Sydney,Salary,Employee Salaries,1920,1894
+2024-04,April,Melbourne,Salary,Employee Salaries,1440,1414
+2024-05,May,Adelaide,Motor Vehicles,Fuel & Oil,120,121
+2024-05,May,Sydney,Motor Vehicles,Fuel & Oil,160,160
+2024-05,May,Melbourne,Motor Vehicles,Fuel & Oil,120,121
+2024-05,May,Adelaide,Rent,Office Rent,135,141
+2024-05,May,Sydney,Rent,Office Rent,180,189
+2024-05,May,Melbourne,Rent,Office Rent,135,141
+2024-05,May,Adelaide,Office Expenses,General,135.9,139
+2024-05,May,Sydney,Office Expenses,General,181.2,182
+2024-05,May,Melbourne,Office Expenses,General,135.9,132
+2024-05,May,Adelaide,Subscriptions & Memberships,Professional,70.5,71
+2024-05,May,Sydney,Subscriptions & Memberships,Professional,94,96
+2024-05,May,Melbourne,Subscriptions & Memberships,Professional,70.5,68
+2024-05,May,Adelaide,Motor Vehicles,Tolls,135.3,134
+2024-05,May,Sydney,Motor Vehicles,Tolls,180.4,172
+2024-05,May,Melbourne,Motor Vehicles,Tolls,135.3,136
+2024-05,May,Adelaide,Sundry Expenses,Miscellaneous,136.8,131
+2024-05,May,Sydney,Sundry Expenses,Miscellaneous,182.4,189
+2024-05,May,Melbourne,Sundry Expenses,Miscellaneous,136.8,142
+2024-05,May,Adelaide,Internet,Broadband,22.5,23
+2024-05,May,Sydney,Internet,Broadband,30,29
+2024-05,May,Melbourne,Internet,Broadband,22.5,23
+2024-05,May,Adelaide,Salary,Employee Salaries,1440,1473
+2024-05,May,Sydney,Salary,Employee Salaries,1920,1831
+2024-05,May,Melbourne,Salary,Employee Salaries,1440,1478
+2024-06,June,Adelaide,Motor Vehicles,Fuel & Oil,120,116
+2024-06,June,Sydney,Motor Vehicles,Fuel & Oil,160,152
+2024-06,June,Melbourne,Motor Vehicles,Fuel & Oil,120,124
+2024-06,June,Adelaide,Rent,Office Rent,135,130
+2024-06,June,Sydney,Rent,Office Rent,180,173
+2024-06,June,Melbourne,Rent,Office Rent,135,137
+2024-06,June,Adelaide,Office Expenses,General,135.9,140
+2024-06,June,Sydney,Office Expenses,General,181.2,183
+2024-06,June,Melbourne,Office Expenses,General,135.9,137
+2024-06,June,Adelaide,Subscriptions & Memberships,Professional,70.5,72
+2024-06,June,Sydney,Subscriptions & Memberships,Professional,94,92
+2024-06,June,Melbourne,Subscriptions & Memberships,Professional,70.5,69
+2024-06,June,Adelaide,Motor Vehicles,Tolls,135.3,138
+2024-06,June,Sydney,Motor Vehicles,Tolls,180.4,184
+2024-06,June,Melbourne,Motor Vehicles,Tolls,135.3,137
+2024-06,June,Adelaide,Sundry Expenses,Miscellaneous,136.8,135
+2024-06,June,Sydney,Sundry Expenses,Miscellaneous,182.4,178
+2024-06,June,Melbourne,Sundry Expenses,Miscellaneous,136.8,136
+2024-06,June,Adelaide,Internet,Broadband,22.5,22
+2024-06,June,Sydney,Internet,Broadband,30,30
+2024-06,June,Melbourne,Internet,Broadband,22.5,23
+2024-06,June,Adelaide,Salary,Employee Salaries,1440,1479
+2024-06,June,Sydney,Salary,Employee Salaries,1920,2009
+2024-06,June,Melbourne,Salary,Employee Salaries,1440,1489
+2024-07,July,Adelaide,Motor Vehicles,Fuel & Oil,120,117
+2024-07,July,Sydney,Motor Vehicles,Fuel & Oil,160,154
+2024-07,July,Melbourne,Motor Vehicles,Fuel & Oil,120,123
+2024-07,July,Adelaide,Rent,Office Rent,135,129
+2024-07,July,Sydney,Rent,Office Rent,180,174
+2024-07,July,Melbourne,Rent,Office Rent,135,129
+2024-07,July,Adelaide,Office Expenses,General,135.9,137
+2024-07,July,Sydney,Office Expenses,General,181.2,181
+2024-07,July,Melbourne,Office Expenses,General,135.9,134
+2024-07,July,Adelaide,Subscriptions & Memberships,Professional,70.5,69
+2024-07,July,Sydney,Subscriptions & Memberships,Professional,94,92
+2024-07,July,Melbourne,Subscriptions & Memberships,Professional,70.5,69
+2024-07,July,Adelaide,Motor Vehicles,Tolls,135.3,132
+2024-07,July,Sydney,Motor Vehicles,Tolls,180.4,179
+2024-07,July,Melbourne,Motor Vehicles,Tolls,135.3,139
+2024-07,July,Adelaide,Sundry Expenses,Miscellaneous,136.8,131
+2024-07,July,Sydney,Sundry Expenses,Miscellaneous,182.4,178
+2024-07,July,Melbourne,Sundry Expenses,Miscellaneous,136.8,141
+2024-07,July,Adelaide,Internet,Broadband,22.5,23
+2024-07,July,Sydney,Internet,Broadband,30,29
+2024-07,July,Melbourne,Internet,Broadband,22.5,22
+2024-07,July,Adelaide,Salary,Employee Salaries,1440,1479
+2024-07,July,Sydney,Salary,Employee Salaries,1920,1863
+2024-07,July,Melbourne,Salary,Employee Salaries,1440,1470
+2024-08,August,Adelaide,Motor Vehicles,Fuel & Oil,120,123
+2024-08,August,Sydney,Motor Vehicles,Fuel & Oil,160,164
+2024-08,August,Melbourne,Motor Vehicles,Fuel & Oil,120,117
+2024-08,August,Adelaide,Rent,Office Rent,135,129
+2024-08,August,Sydney,Rent,Office Rent,180,186
+2024-08,August,Melbourne,Rent,Office Rent,135,136
+2024-08,August,Adelaide,Office Expenses,General,135.9,140
+2024-08,August,Sydney,Office Expenses,General,181.2,175
+2024-08,August,Melbourne,Office Expenses,General,135.9,135
+2024-08,August,Adelaide,Subscriptions & Memberships,Professional,70.5,72
+2024-08,August,Sydney,Subscriptions & Memberships,Professional,94,92
+2024-08,August,Melbourne,Subscriptions & Memberships,Professional,70.5,74
+2024-08,August,Adelaide,Motor Vehicles,Tolls,135.3,132
+2024-08,August,Sydney,Motor Vehicles,Tolls,180.4,174
+2024-08,August,Melbourne,Motor Vehicles,Tolls,135.3,139
+2024-08,August,Adelaide,Sundry Expenses,Miscellaneous,136.8,141
+2024-08,August,Sydney,Sundry Expenses,Miscellaneous,182.4,191
+2024-08,August,Melbourne,Sundry Expenses,Miscellaneous,136.8,141
+2024-08,August,Adelaide,Internet,Broadband,22.5,23
+2024-08,August,Sydney,Internet,Broadband,30,30
+2024-08,August,Melbourne,Internet,Broadband,22.5,23
+2024-08,August,Adelaide,Salary,Employee Salaries,1440,1400
+2024-08,August,Sydney,Salary,Employee Salaries,1920,1862
+2024-08,August,Melbourne,Salary,Employee Salaries,1440,1443
+2024-09,September,Adelaide,Motor Vehicles,Fuel & Oil,120,120
+2024-09,September,Sydney,Motor Vehicles,Fuel & Oil,160,152
+2024-09,September,Melbourne,Motor Vehicles,Fuel & Oil,120,124
+2024-09,September,Adelaide,Rent,Office Rent,135,132
+2024-09,September,Sydney,Rent,Office Rent,180,174
+2024-09,September,Melbourne,Rent,Office Rent,135,141
+2024-09,September,Adelaide,Office Expenses,General,135.9,130
+2024-09,September,Sydney,Office Expenses,General,181.2,177
+2024-09,September,Melbourne,Office Expenses,General,135.9,135
+2024-09,September,Adelaide,Subscriptions & Memberships,Professional,70.5,71
+2024-09,September,Sydney,Subscriptions & Memberships,Professional,94,95
+2024-09,September,Melbourne,Subscriptions & Memberships,Professional,70.5,70
+2024-09,September,Adelaide,Motor Vehicles,Tolls,135.3,131
+2024-09,September,Sydney,Motor Vehicles,Tolls,180.4,183
+2024-09,September,Melbourne,Motor Vehicles,Tolls,135.3,138
+2024-09,September,Adelaide,Sundry Expenses,Miscellaneous,136.8,134
+2024-09,September,Sydney,Sundry Expenses,Miscellaneous,182.4,189
+2024-09,September,Melbourne,Sundry Expenses,Miscellaneous,136.8,137
+2024-09,September,Adelaide,Internet,Broadband,22.5,23
+2024-09,September,Sydney,Internet,Broadband,30,29
+2024-09,September,Melbourne,Internet,Broadband,22.5,21
+2024-09,September,Adelaide,Salary,Employee Salaries,1440,1479
+2024-09,September,Sydney,Salary,Employee Salaries,1920,1911
+2024-09,September,Melbourne,Salary,Employee Salaries,1440,1430
+2024-10,October,Adelaide,Motor Vehicles,Fuel & Oil,120,120
+2024-10,October,Sydney,Motor Vehicles,Fuel & Oil,160,157
+2024-10,October,Melbourne,Motor Vehicles,Fuel & Oil,120,115
+2024-10,October,Adelaide,Rent,Office Rent,135,138
+2024-10,October,Sydney,Rent,Office Rent,180,177
+2024-10,October,Melbourne,Rent,Office Rent,135,137
+2024-10,October,Adelaide,Office Expenses,General,135.9,138
+2024-10,October,Sydney,Office Expenses,General,181.2,177
+2024-10,October,Melbourne,Office Expenses,General,135.9,139
+2024-10,October,Adelaide,Subscriptions & Memberships,Professional,70.5,70
+2024-10,October,Sydney,Subscriptions & Memberships,Professional,94,97
+2024-10,October,Melbourne,Subscriptions & Memberships,Professional,70.5,71
+2024-10,October,Adelaide,Motor Vehicles,Tolls,135.3,142
+2024-10,October,Sydney,Motor Vehicles,Tolls,180.4,179
+2024-10,October,Melbourne,Motor Vehicles,Tolls,135.3,140
+2024-10,October,Adelaide,Sundry Expenses,Miscellaneous,136.8,142
+2024-10,October,Sydney,Sundry Expenses,Miscellaneous,182.4,178
+2024-10,October,Melbourne,Sundry Expenses,Miscellaneous,136.8,141
+2024-10,October,Adelaide,Internet,Broadband,22.5,21
+2024-10,October,Sydney,Internet,Broadband,30,30
+2024-10,October,Melbourne,Internet,Broadband,22.5,23
+2024-10,October,Adelaide,Salary,Employee Salaries,1440,1509
+2024-10,October,Sydney,Salary,Employee Salaries,1920,1915
+2024-10,October,Melbourne,Salary,Employee Salaries,1440,1454
+2024-11,November,Adelaide,Motor Vehicles,Fuel & Oil,120,122
+2024-11,November,Sydney,Motor Vehicles,Fuel & Oil,160,156
+2024-11,November,Melbourne,Motor Vehicles,Fuel & Oil,120,123
+2024-11,November,Adelaide,Rent,Office Rent,135,128
+2024-11,November,Sydney,Rent,Office Rent,180,181
+2024-11,November,Melbourne,Rent,Office Rent,135,130
+2024-11,November,Adelaide,Office Expenses,General,135.9,141
+2024-11,November,Sydney,Office Expenses,General,181.2,184
+2024-11,November,Melbourne,Office Expenses,General,135.9,142
+2024-11,November,Adelaide,Subscriptions & Memberships,Professional,70.5,70
+2024-11,November,Sydney,Subscriptions & Memberships,Professional,94,93
+2024-11,November,Melbourne,Subscriptions & Memberships,Professional,70.5,68
+2024-11,November,Adelaide,Motor Vehicles,Tolls,135.3,129
+2024-11,November,Sydney,Motor Vehicles,Tolls,180.4,176
+2024-11,November,Melbourne,Motor Vehicles,Tolls,135.3,136
+2024-11,November,Adelaide,Sundry Expenses,Miscellaneous,136.8,143
+2024-11,November,Sydney,Sundry Expenses,Miscellaneous,182.4,187
+2024-11,November,Melbourne,Sundry Expenses,Miscellaneous,136.8,130
+2024-11,November,Adelaide,Internet,Broadband,22.5,22
+2024-11,November,Sydney,Internet,Broadband,30,29
+2024-11,November,Melbourne,Internet,Broadband,22.5,23
+2024-11,November,Adelaide,Salary,Employee Salaries,1440,1457
+2024-11,November,Sydney,Salary,Employee Salaries,1920,1883
+2024-11,November,Melbourne,Salary,Employee Salaries,1440,1435
+2024-12,December,Adelaide,Motor Vehicles,Fuel & Oil,120,121
+2024-12,December,Sydney,Motor Vehicles,Fuel & Oil,160,152
+2024-12,December,Melbourne,Motor Vehicles,Fuel & Oil,120,118
+2024-12,December,Adelaide,Rent,Office Rent,135,134
+2024-12,December,Sydney,Rent,Office Rent,180,178
+2024-12,December,Melbourne,Rent,Office Rent,135,141
+2024-12,December,Adelaide,Office Expenses,General,135.9,129
+2024-12,December,Sydney,Office Expenses,General,181.2,177
+2024-12,December,Melbourne,Office Expenses,General,135.9,138
+2024-12,December,Adelaide,Subscriptions & Memberships,Professional,70.5,70
+2024-12,December,Sydney,Subscriptions & Memberships,Professional,94,95
+2024-12,December,Melbourne,Subscriptions & Memberships,Professional,70.5,70
+2024-12,December,Adelaide,Motor Vehicles,Tolls,135.3,141
+2024-12,December,Sydney,Motor Vehicles,Tolls,180.4,188
+2024-12,December,Melbourne,Motor Vehicles,Tolls,135.3,133
+2024-12,December,Adelaide,Sundry Expenses,Miscellaneous,136.8,138
+2024-12,December,Sydney,Sundry Expenses,Miscellaneous,182.4,174
+2024-12,December,Melbourne,Sundry Expenses,Miscellaneous,136.8,135
+2024-12,December,Adelaide,Internet,Broadband,22.5,24
+2024-12,December,Sydney,Internet,Broadband,30,29
+2024-12,December,Melbourne,Internet,Broadband,22.5,21
+2024-12,December,Adelaide,Salary,Employee Salaries,1440,1501
+2024-12,December,Sydney,Salary,Employee Salaries,1920,1841
+2024-12,December,Melbourne,Salary,Employee Salaries,1440,1483
